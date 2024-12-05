@@ -1,5 +1,3 @@
-Aqui está o README corrigido em formato Markdown:
-
 # Projeto de Formulário de Cadastro
 
 Este é um simples projeto de **Formulário de Cadastro** em PHP com validação de dados, criptografia de senha e inserção de dados em um banco de dados MySQL. Ele permite que um usuário se cadastre, validando os dados e armazenando as informações no banco de dados de forma segura.
